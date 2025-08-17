@@ -2,7 +2,7 @@
 
 This repository contains React state management implementations using different tools:
 
-- `context` → implementation wisth Context API
+- `context` → implementation with Context API
 - `redux` → implementation with Redux Toolkit
 - `zustand` → implementation with Zustand
 
