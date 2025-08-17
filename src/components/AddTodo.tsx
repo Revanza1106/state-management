@@ -1,4 +1,4 @@
-import React, { type FormEvent, useContext, useState } from "react";
+import React, { useContext, useState } from "react";
 import {Context as TodoContext} from '../context/TodoContext'
 import { addTodo } from "../actions/TodoAction";
 
